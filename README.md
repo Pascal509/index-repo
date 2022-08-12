@@ -1,3 +1,3 @@
 # DOCUMENT
 
-This Is My Website
+This Is My Website. Enjoy the view
